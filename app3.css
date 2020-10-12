@@ -1,0 +1,74 @@
+body{
+    background-image: url(https://previews.123rf.com/images/flobow/flobow1705/flobow170500027/78539295-fond-de-ville-de-dessin-anim%C3%A9-sans-soudure-illustration-vectorielle-avec-des-couches-s%C3%A9par%C3%A9es-.jpg);
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container
+{display: flex;
+justify-content: center;
+
+
+}
+
+
+.chat{
+    
+    width: 350px; 
+    padding-top: 70px; 
+    padding-bottom: 60px;
+     border: 3px solid white; 
+     text-align: center;
+      background:#b7bec9d0;
+      opacity: 0.9;
+      font-size: 20px;
+      margin-right: 80px;
+      position: absolute;
+      font-family: 'Sansita Swashed', cursive;
+      
+    
+    }
+
+    h2{
+        color: black;
+        margin-left: 2%;
+        font-family: 'Sansita Swashed', cursive;
+    }
+
+    .waze
+    {margin-right: 55%;}
+
+    li{color: black;
+        font-family: 'Sansita Swashed', cursive;}
+
+    .liste
+    {justify-content: left;
+    margin-top: 1%;}
+
+
+    h1{
+        color: black;
+        font-family: 'Sansita Swashed', cursive;
+        font-size: 60px;
+        text-shadow: 2px 2px #56CDFF;
+    }
+
+ .hs
+ {display: flex;
+justify-content: space-around;}
+    
+
+
+hr {
+    width: 700px;
+    height: 2px;
+    background-color: #56CDFF;
+    border: 0;
+
+}
+
+h3{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}

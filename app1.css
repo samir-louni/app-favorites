@@ -1,0 +1,57 @@
+.un
+{background-color: black;
+background-size: cover;
+}
+
+.deux
+{background-color: rgb(189, 189, 189);
+    
+}
+
+.trois
+{background-color: rgb(8, 8, 8);}
+
+h1 
+{color: white;
+    font-family: 'Sansita Swashed', cursive;
+font-size: 45px;
+text-decoration: underline;}
+
+h2{color: white;
+    font-family: 'Sansita Swashed', cursive;}
+
+section{
+    margin: 0px;
+    padding:10px;
+    border:0px;
+    
+    }
+
+    p{color: rgb(245, 240, 240);
+    text-shadow: 2px 1px  black;
+    font-family: 'Sansita Swashed', cursive;
+font-size: 20px;}
+
+  .photo
+  {float: right;}
+
+  *
+  {font-size: 20px;}
+
+  .tel
+  {float: left;}
+  
+  .terre
+  {float:right}
+
+  li
+  {color: rgb(109, 108, 108);
+    text-shadow: 2px 1px black;
+    font-family: 'Sansita Swashed', cursive;
+font-size: 20px;}
+  
+ h4
+ {color: rgb(10, 10, 10);
+    text-shadow: 2px 1px 1px  rgb(231, 204, 204);
+    font-family: 'Sansita Swashed', cursive;
+font-size: 25px;}

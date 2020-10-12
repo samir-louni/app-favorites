@@ -1,0 +1,91 @@
+body{background-image: url(https://zupimages.net/up/20/41/sic2.jpg) ;
+    
+background-size: cover;
+
+
+}
+
+.container
+{display: flex;
+flex-direction: row;
+justify-content: center;
+justify-content: space-evenly;}
+
+hr {
+    width: 500px;
+    height: 3px;
+    background-color: #8f8f8f;
+    border: 0;
+    margin-bottom: 80px;
+}
+
+
+
+.item1{
+font-family: 'Pacifico', cursive;
+width: 350px; 
+padding-top: 30px; 
+padding-bottom: 30px;
+ border: 3px solid white; 
+ text-align: center;
+  background:#b7bec9d0;
+  opacity: 0.8;
+  font-size: 20px;
+
+}
+
+.item2{
+    font-family: 'Pacifico', cursive;
+    width: 350px; 
+    padding-top: 30px; 
+    padding-bottom: 30px;
+     border: 3px solid white; 
+     text-align: center;
+      background:#ece13dd2;
+      opacity: 0.8;
+      font-size: 20px;
+    }
+
+    .item3{
+        font-family: 'Pacifico', cursive;
+        width: 350px; 
+        padding-top: 30px; 
+        padding-bottom: 30px;
+         border: 3px solid white; 
+         text-align: center;
+          background:#56ccffdc;
+          opacity: 0.8;
+          font-size: 20px;
+        }
+
+        .item1:hover{opacity: 1;}
+
+        .item2:hover{opacity: 1;}
+
+        .item3:hover{opacity: 1;}
+
+        @font-face {
+            font-family: 'grahm_sans_roughregular';
+            src: url('rough_otf-webfont.woff2') format('woff2'),
+                 url('rough_otf-webfont.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        
+        }
+     .item1{
+         
+         color: black;
+     }
+
+     h1{
+         font-family: 'Sansita Swashed', cursive;;
+         color: whitesmoke;
+         font-size: 70px;
+       
+     }
+
+     p{
+         color:white;
+         font-family: 'Averia Gruesa Libre', cursive;
+     }
+    

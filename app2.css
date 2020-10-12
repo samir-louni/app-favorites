@@ -1,0 +1,55 @@
+body
+{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/693/196/non_2x/paper-style-yellow-and-black-background-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1
+{color: black;}
+
+.container
+{display: flex;
+flex-direction: row;
+justify-content: center;
+justify-content: space-evenly ;}
+
+.containersuite
+{display: flex;
+flex-direction: row;
+justify-content: center;
+justify-content: space-between;
+margin-right: 270px;
+font-size: 17px;}
+
+.containerterme
+{display: flex;
+flex-direction: row;
+justify-content: center;
+justify-content: space-evenly ;}
+
+*
+{color: white;
+font-family: 'Chilanka', cursive;
+text-shadow: 1px 1px 1px black;}
+
+h2
+{
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    text-decoration: underline;
+}
+
+h1
+{font-family: 'Chela One', cursive;
+font-size: 43px;
+text-shadow: 2px 2px 2px white;}
+
+hr {
+    width: 1200px;
+    height: 2px;
+    background-color: white;
+    border: 0;
+    margin-bottom: 20px;
+
+}
